@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PT KBL Trip Organizer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: linear-gradient(135deg, #1e90ff, #ff7f50);
+            color: white;
+            text-align: center;
+        }
+        header {
+            padding: 50px 20px;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 15px;
+        }
+        p {
+            max-width: 700px;
+            margin: auto;
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+        .btn {
+            display: inline-block;
+            margin-top: 25px;
+            padding: 15px 30px;
+            background-color: #25d366;
+            color: white;
+            font-size: 1.2em;
+            border-radius: 30px;
+            text-decoration: none;
+            transition: 0.3s;
+        }
+        .btn:hover {
+            background-color: #20b357;
+        }
+        footer {
+            margin-top: 50px;
+            padding: 15px;
+            background-color: rgba(0, 0, 0, 0.2);
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>PT KBL TRIP ORGANIZER</h1>
+        <p>
+            PT KBL Organizer adalah perusahaan yang menyediakan layanan:<br>
+            ✅ Pariwisata dan Travel – perjalanan domestik & internasional<br>
+            ✅ Rental Mobil – armada lengkap, pelayanan prima<br>
+            ✅ Pengiriman Paket – cepat, aman, dan tepat waktu<br><br>
+            Kami berkomitmen memberikan pelayanan terbaik demi kenyamanan dan kepuasan pelanggan.<br>
+            🔗 Bermitra dengan PT KBL Organizer adalah langkah cerdas!
+        </p>
+        <a class="btn" href="https://wa.me/6282227149123" target="_blank">WHATSAPP 082227149123</a>
+    </header>
+
+    <footer>
+        &copy; 2025 PT KBL Trip Organizer. All rights reserved.
+    </footer>
+
+</body>
+</html>
